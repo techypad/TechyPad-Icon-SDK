@@ -82,4 +82,4 @@ Once you are happy with your icon pack and have tested it locally:
 ### 📜 Rules for Submission
 - **No NSFW Content:** Keep it clean and family-friendly.
 - **Copyright:** Do not steal icons from other artists without permission.
-- **File Size:** Try to keep your images under 256x256 resolution so they load instantly on the hardware.
+- **File Size:** Try to keep your images under 144x144 resolution so they load instantly on the hardware.
