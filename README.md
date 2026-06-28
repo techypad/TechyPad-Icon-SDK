@@ -83,3 +83,22 @@ Once you are happy with your icon pack and have tested it locally:
 - **No NSFW Content:** Keep it clean and family-friendly.
 - **Copyright:** Do not steal icons from other artists without permission.
 - **File Size:** Try to keep your images under 144x144 resolution so they load instantly on the hardware.
+## 🧩 Complete the Experience
+
+The Icon SDK works alongside the rest of the TechyPad developer ecosystem.
+
+### 🔌 TechyPad Plugins SDK
+Build plugins for TechyPad using the official SDK, APIs, examples, and documentation.
+
+➡️ https://github.com/techypad/TechyPad-Plugins-SDK
+
+---
+
+### 🛠️ TechyPad Setup
+Need to install TechyPad or prepare your development environment? Start here.
+
+➡️ https://github.com/techypad/techy-pad-setup
+
+---
+
+✨ Great plugins deserve great icons. Use this SDK to keep every plugin looking clean, consistent, and unmistakably TechyPad.
